@@ -1,3 +1,3 @@
-# Ducks
+# TodoList
 
-Permet de mieux structure ses Reducers
+TodoList réalisée avec React et Redux
